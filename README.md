@@ -138,7 +138,7 @@ Created by: **Mohamed Rafeez Karothukuzhi Hameed**
     <h1>Mohamed Rafeez</h1>
     <p>LED | VJ | Creative Visualist</p>
   </div>
-  <a href="https://wa.me/971589423050" target="_blank" class="button">💬 WhatsApp Me</a>
+  [<a href="https://wa.me/971589423050" target="_blank" class="button">💬 WhatsApp Me</a>](https://api.whatsapp.com/send/?phone=971589423050&text=Hey%2C+You+der..%3F&type=phone_number&app_absent=0)
   <a href="#" class="button">🎥 Watch My Show</a>
   <div style="margin-top: 40px; text-align: center;">
     <img src="0bac33d0-9546-4a9e-ac6c-bf90aca13825.png" alt="Natural Gas Chart Snapshot" style="max-width: 90%; border: 2px solid #555; border-radius: 8px;">
