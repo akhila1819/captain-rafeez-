@@ -49,20 +49,19 @@ Created by: **Mohamed Rafeez Karothukuzhi Hameed**
   <title>Captain Rafeez</title>
   <style>
     body {
-      margin: 0;
-      padding: 0;
-      background-image: url('https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?ixlib=rb-4.0.3&auto=format&fit=crop&w=1950&q=80');
-      background-size: cover;
-      background-repeat: no-repeat;
-      background-attachment: fixed;
-      background-position: center;
-      font-family: Arial, sans-serif;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      min-height: 100vh;
-      color: white;
+  margin: 0;
+  padding: 0;
+  background: url('fbc43842-e1fc-488d-bf53-5d1e0453b673.png') no-repeat center center fixed;
+  background-size: cover;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  text-shadow: 1px 1px 4px rgba(0,0,0,0.8);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
     }
 
     .profile {
@@ -130,6 +129,10 @@ Created by: **Mohamed Rafeez Karothukuzhi Hameed**
   </style>
 </head>
 <body>
+  <div style="background: rgba(0,0,0,0.3); padding: 20px; border-radius: 10px;">
+  <!-- All your existing content (image, buttons, etc.) -->
+</div>
+
   <div class="profile">
     <img src="profile.jpg" alt="Captain Rafeez">
     <h1>Mohamed Rafeez</h1>
