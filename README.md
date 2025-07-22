@@ -1,3 +1,6 @@
+🔗 [Live Site](https://akhila1819.github.io/captain-rafeez-/)  
+📦 [Repository](https://github.com/akhila1819/captain-rafeez-)  
+📥 Download ZIP and open `index.html` in any browser
 
 # captain-rafeez-
 Natural Gas Update
